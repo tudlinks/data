@@ -66,9 +66,9 @@
         "name":"Cloud",
         "url":"https://cloud.ketograph.de/index.php/s/CaNycdAUG7P5Hzp"
       },
-      {
-        "name":"Cloud Passwort",
-        "url":"https://www.facebook.com/groups/746350525432431/permalink/928726613861487"
+	  {
+        "name":"Zugangssystem Doorlock (nur im TU Netz erreichbar)",
+        "url":"https://etdlxj.et.tu-dresden.de:8445/doorlock/main.php"
       }
     ]
   },
@@ -150,7 +150,7 @@
         "url":"https://tu-dresden.de/ing/informatik/ti/vlsi/studium/lehrmaterialien/rechnerarchitektur_1"
       },
       {
-        "name":"Systemtheorie I/II",
+        "name":"Systemtheorie I",
         "url":"https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie"
       },
       {
@@ -162,7 +162,7 @@
         "url":"https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/praktikum-et"
       },
       {
-        "name":"Praktikum SWT",
+        "name":"Praktikum Softwaretechnologie",
         "url":"https://tu-dresden.de/ing/informatik/smt/st/studium/lehrveranstaltungen?leaf=2&lang=de&subject=355&embedding_id=47eddfa7c5a54ed5be49042aff35a31b"
       }
     ]
@@ -187,7 +187,7 @@
         "url":"https://tu-dresden.de/ing/informatik/ti/professur-fuer-rechnerarchitektur/studium/lehrveranstaltungen/vorlesungen/vorlesung-rechnerarchitektur-ii"
       },
       {
-        "name":"Systemtheorie I/II",
+        "name":"Systemtheorie II",
         "url":"https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie"
       },
       {

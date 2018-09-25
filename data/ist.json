@@ -69,6 +69,10 @@
 	  {
         "name":"Zugangssystem Doorlock (nur im TU Netz erreichbar)",
         "url":"https://etdlxj.et.tu-dresden.de:8445/doorlock/main.php"
+      },
+	  {
+        "name":"Unisport",
+        "url":"https://tu-dresden.de/usz"
       }
     ]
   },
@@ -213,7 +217,7 @@
       },
       {
         "name":"Formale Systeme",
-        "url":"https://iccl.inf.tu-dresden.de/web/Formale_Systeme_%28WS2016%29"
+        "url":"https://iccl.inf.tu-dresden.de/web/Formale_Systeme(WS2018)"
       },
       {
         "name":"Signalverarbeitung",

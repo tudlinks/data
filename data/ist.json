@@ -67,11 +67,11 @@
         "url":"https://cloud.ketograph.de/index.php/s/CaNycdAUG7P5Hzp"
       },
 	  {
-        "name":"Zugangssystem Doorlock (nur im TU Netz erreichbar)",
+        "name":"Zugangssystem Doorlock (VPN)",
         "url":"https://etdlxj.et.tu-dresden.de:8445/doorlock/main.php"
       },
 	  {
-        "name":"Unisport",
+        "name":"Universitätssport",
         "url":"https://tu-dresden.de/usz"
       }
     ]

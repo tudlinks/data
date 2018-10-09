@@ -2,6 +2,8 @@
 
 import unittest
 import json
+import validators
+import ddt
 from jsonschema import validate
 
 indexschema = {
@@ -50,33 +52,40 @@ subschema = {
                         }
                 }
 
+def load_files():
+        jf = open("index.json", "r")
+        files = [_id['id'] for _id in json.load(jf)]
+        jf.close()
+        return files
+
+def load_links(files):
+        entries = []
+        for sfile in files:
+                with open("{0}.json".format(sfile)) as f:
+                        data = json.load(f)
+                        for semester in data:
+                                entries.extend(semester["entries"])
+        return entries
+
+@ddt.ddt
 class JsonValidate(unittest.TestCase):
-        
-        def setUp(self):
-                jf = open("index.json", "r")
-                self.files = [_id['id'] for _id in json.load(jf)]
-                jf.close() 
-        
+
         def test_index(self):
-                validate_file("index")
+                with open("index.json", "r") as f:
+                        data = json.load(f)
+                validate(data, indexschema)
 
-        def test_files(self):
-                assert(self.files)
-                for _file in self.files:
-                        validate_file(_file)
+        @ddt.data(*load_files())
+        def test_files(self, value):
+                with open("{0}.json".format(value), "r") as f:
+                        data = json.load(f)
+                validate(data, subschema)
 
+        @ddt.data(*load_links(load_files()))
+        def test_links(self, entry):
+                if entry["url"]:
+                        status = validators.url(entry["url"])
+                        self.assertTrue(status == True,
+                                "Test failed for\nSite: {0} \nURL: {1}\nResult: {2}".format(
+                                    entry["name"], entry["url"], "True" if status else status.value))
 
-def validate_file(subject):
-        f = open("{0}.json".format(subject), "r")
-        raw = f.read()
-        f.close()
-        def test(self):
-                try:
-                  data = json.loads(raw)
-                except json.decoder.JSONDecodeError as e:
-                  raise AttributeError("Error in {0}: {1}".format(subject, str(e)))
-                if subject == "index":
-                        validate(data, indexschema)
-                else:
-                        validate(data, subschema)
-        return test

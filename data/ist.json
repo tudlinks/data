@@ -62,7 +62,11 @@
         "name":"netAction",
         "url":"http://et.netaction.de/forum/index.php"
       },
-	  {
+      {
+        "name":"Zugangssystem Doorlock (VPN)",
+        "url":"https://etdlxj.et.tu-dresden.de:8445/doorlock/main.php"
+      },
+      {
         "name":"Universitätssport",
         "url":"https://tu-dresden.de/usz"
       }

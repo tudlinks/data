@@ -1,0 +1,41 @@
+[
+  {
+    "id":"ist",
+    "title":"Informationssystemtechnik"
+  },
+
+  {
+    "id":"et-amr",
+    "title":"Elektrotechnik (Automatisierungs-, Mess- und Regelungstechnik)"
+  },
+  
+  {
+    "id":"et-eet",
+    "title":"Elektrotechnik (Elektroenergietechnik)"
+  },
+  
+  {
+    "id":"et-gmm",
+    "title":"Elektrotechnik (Geräte-, Mikro- und Medizintechnik)"
+  },
+  
+  {
+    "id":"et-it",
+    "title":"Elektrotechnik (Informationstechnik)"
+  },
+  
+  {
+    "id":"et-me",
+    "title":"Elektrotechnik (Mikroelektronik)"
+  },
+  
+  {
+    "id":"res",
+    "title":"Regenarative Energiesysteme"
+  },
+
+  {
+    "id":"mt",
+    "title":"Mechatronik"
+  }
+]

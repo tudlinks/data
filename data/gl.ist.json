@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Allgemein",
+		"entries": [
+			{
+				"name": "Auditorium",
+				"url": "https://auditorium.inf.tu-dresden.de/"
+			},
+			{
+				"name": "Inloop",
+				"url": "https://inloop.inf.tu-dresden.de/"
+			}
+		]
+	}
+]

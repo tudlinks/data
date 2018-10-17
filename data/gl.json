@@ -1,0 +1,75 @@
+[
+  {
+    "title":"Allgemein",
+    "entries":[
+      {
+        "name":"Studierenden-Portal (Selma)",
+        "url":"https://portal.slm.tu-dresden.de/"
+      },
+      {
+        "name":"Stundenpläne",
+        "url":"http://www.et.tu-dresden.de/stundenplan/stundenplan_auswahl.php"
+      },
+      {
+        "name":"Hisqis",
+        "url":"https://qis.dez.tu-dresden.de/"
+      },
+      {
+        "name":"Prüfungsamt",
+        "url":"http://www.et.tu-dresden.de/etit/index.php?id=pruefungsamt"
+      },
+      {
+        "name":"jExam",
+        "url":"https://jexam.inf.tu-dresden.de/de.jexam.web.v4.5/spring/welcome"
+      },
+      {
+        "name":"Opal",
+        "url":"https://bildungsportal.sachsen.de/opal/dmz/"
+      },
+      {
+        "name":"Studiendokumente",
+        "url":"https://tu-dresden.de/ing/elektrotechnik/studium/beratung-und-service/studiendokumente-und-ordnungen/diplom-ist"
+      },
+      {
+        "name":"Fachschaftsrat",
+        "url":"https://www.fsret.de/"
+      },
+      {
+        "name":"AGDSN",
+        "url":"https://www.wh2.tu-dresden.de/"
+      },
+      {
+        "name":"Auditorium",
+        "url":"https://auditorium.inf.tu-dresden.de/"
+      },
+      {
+        "name":"Mensa",
+        "url":"http://www.studentenwerk-dresden.de/mensen/speiseplan/"
+      },
+      {
+        "name":"SLUB",
+        "url":"http://www.slub-dresden.de/startseite/"
+      },
+      {
+        "name":"Campus Navigator",
+        "url":"https://navigator.tu-dresden.de/"
+      },
+      {
+        "name":"MSX (Outlook Web)",
+        "url":"https://msx.tu-dresden.de/"
+      },
+      {
+        "name":"netAction",
+        "url":"http://et.netaction.de/forum/index.php"
+      },
+      {
+        "name":"Zugangssystem Doorlock (VPN)",
+        "url":"https://etdlxj.et.tu-dresden.de:8445/doorlock/main.php"
+      },
+      {
+        "name":"Universitätssport",
+        "url":"https://tu-dresden.de/usz"
+      }
+    ]
+  }
+]

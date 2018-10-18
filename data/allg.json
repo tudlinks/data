@@ -11,6 +11,10 @@
 				"url": "http://www.et.tu-dresden.de/stundenplan/stundenplan_auswahl.php"
 			},
 			{
+				"name": "Studiendokumente",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/studium/beratung-und-service/studiendokumente-und-ordnungen/diplom-ist"
+			},
+			{
 				"name": "Hisqis",
 				"url": "https://qis.dez.tu-dresden.de/"
 			},
@@ -19,24 +23,16 @@
 				"url": "http://www.et.tu-dresden.de/etit/index.php?id=pruefungsamt"
 			},
 			{
-				"name": "jExam",
-				"url": "https://jexam.inf.tu-dresden.de/de.jexam.web.v4.5/spring/welcome"
+				"name": "Campus Navigator",
+				"url": "https://navigator.tu-dresden.de/"
 			},
 			{
 				"name": "Opal",
 				"url": "https://bildungsportal.sachsen.de/opal/dmz/"
 			},
 			{
-				"name": "Studiendokumente",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/studium/beratung-und-service/studiendokumente-und-ordnungen/diplom-ist"
-			},
-			{
-				"name": "Fachschaftsrat",
-				"url": "https://www.fsret.de/"
-			},
-			{
-				"name": "AGDSN",
-				"url": "https://www.wh2.tu-dresden.de/"
+				"name": "MSX (Outlook Web)",
+				"url": "https://msx.tu-dresden.de/"
 			},
 			{
 				"name": "Mensa",
@@ -47,14 +43,6 @@
 				"url": "http://www.slub-dresden.de/startseite/"
 			},
 			{
-				"name": "Campus Navigator",
-				"url": "https://navigator.tu-dresden.de/"
-			},
-			{
-				"name": "MSX (Outlook Web)",
-				"url": "https://msx.tu-dresden.de/"
-			},
-			{
 				"name": "netAction",
 				"url": "http://et.netaction.de/forum/index.php"
 			},
@@ -63,9 +51,21 @@
 				"url": "https://etdlxj.et.tu-dresden.de:8445/doorlock/main.php"
 			},
 			{
+				"name": "Fachschaftsrat",
+				"url": "https://www.fsret.de/"
+			},
+			{
+				"name": "AGDSN",
+				"url": "https://www.wh2.tu-dresden.de/"
+			},
+			{
 				"name": "Universitätssport",
 				"url": "https://tu-dresden.de/usz"
-			}
+			},
+			{
+				"name": "jExam",
+				"url": "https://jexam.inf.tu-dresden.de/de.jexam.web.v4.5/spring/welcome"
+			},
 		]
 	}
 ]

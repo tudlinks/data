@@ -3,27 +3,10 @@
 		"title": "5. Semester",
 		"entries": [
 			{
-				"name": "Betriebssysteme und Sicherheit",
-				"url": "http://www.inf.tu-dresden.de/index.php?node_id=1312&ln=de",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
-			},
-			{
-				"name": "Schaltkreis- und Systementwurf",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/hpsn/studium/lehrveranstaltungen/sse?set_language=de",
-				"modul-name": "ET-01 04 01",
-			},
-			{
-				"name": "Formale Systeme",
-				"url": "https://iccl.inf.tu-dresden.de/web/Formale_Systeme(WS2018)",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
-			},
-			{
-				"name": "Signalverarbeitung",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/ias/juniorprofessur-fuer-kognitive-systeme/studium/lehrveranstaltungen/signalverarbietung",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "",
+				"url": "",
+				"modul-name": "",
+				"modul-id": ""
 			}
 		]
 	},

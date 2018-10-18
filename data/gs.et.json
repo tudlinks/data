@@ -5,32 +5,44 @@
 			{
 				"name": "Mathe 1",
 				"url": "http://www.math.tu-dresden.de/~wensch/mainfiles/?page=mathe1",
-				"modul-name": "ET-01 04 01",
+				"modul-name": "Algebraische und analytische Grundlagen",
 				"modul-id": "ET-01 04 01"
 			},
 			{
-				"name": "Grundlagen der Elektrotechnik",
+				"name": "Elektrotechnik 1",
 				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et1",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"modul-name": "Grundlagen der Elektrotechnik",
+				"modul-id": "ET-12 08 01"
 			},
 			{
-				"name": "Algebra",
-				"url": "http://www.math.tu-dresden.de/~baumann/algebra_fuer_informationssystemtechniker.html",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Informatik 1",
+				"url": "",
+				"modul-name": "Informatik",
+				"modul-id": "ET-11 02 01"
 			},
 			{
-				"name": "Algorithmen und Datenstrukturen",
-				"url": "https://www.inf.tu-dresden.de/index.php?node_id=3749&ln=de",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "",
+				"url": "",
+				"modul-name": "Naturwissenschaftliche Grundlagen",
+				"modul-id": "ET-02 06 04 05"
 			},
 			{
-				"name": "Einführungspraktikum",
-				"url": "https://tu-dresden.de/ing/informatik/sya/se/studium/labs-seminars/einfuehrungspraktikum_roboter_lab?set_language=de",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "",
+				"url": "",
+				"modul-name": " Werkstoffe und Technische Mechanik",
+				"modul-id": "ET-13 00 01"
+			},
+			{
+				"name": "",
+				"url": "",
+				"modul-name": "Einführungsprojekt Elektrotechnik",
+				"modul-id": "ET-12 02 00"
+			},
+			{
+				"name": "EBW 1",
+				"url": "",
+				"modul-name": "Einführung in die Berufs- und Wissenschaftssprache – Grundlagen",
+				"modul-id": "ET-30 10 02 01"
 			}
 		]
 	},
@@ -38,40 +50,40 @@
 		"title": "2. Semester",
 		"entries": [
 			{
-				"name": "Softwaretechnologie",
-				"url": "https://tu-dresden.de/ing/informatik/smt/st/studium/lehrveranstaltungen?leaf=2&lang=de&subject=341&embedding_id=47eddfa7c5a54ed5be49042aff35a31b",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
-			},
-			{
-				"name": "Elektrische und magnetische Felder",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et2",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
-			},
-			{
 				"name": "Mathe 2",
-				"url": "http://www.math.tu-dresden.de/~feldm/mainfiles/index.php?lang=de&page=mathe2",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"url": "",
+				"modul-name": "Mehrdimensionale Differential- und Integralrechnung",
+				"modul-id": "ET-01 04 02"
 			},
 			{
-				"name": "Programmierung",
-				"url": "https://www.inf.tu-dresden.de/index.php?node_id=3774&ln=de",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "",
+				"url": "",
+				"modul-name": "Werkstoffe und Technische Mechanik",
+				"modul-id": "ET-13 00 01"
 			},
 			{
-				"name": "Algebra",
-				"url": "https://www.math.tu-dresden.de/~jgreiner/AlgIST_SS17.html",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "",
+				"url": "",
+				"modul-name": "Naturwissenschaftliche Grundlagen",
+				"modul-id": "ET-02 06 04 05"
 			},
 			{
-				"name": "Inloop",
-				"url": "https://inloop.inf.tu-dresden.de/",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Informatik 2",
+				"url": "",
+				"modul-name": "Informatik",
+				"modul-id": "ET-1 02 01"
+			},
+			{
+				"name": "Elektrotechnik 2",
+				"url": "",
+				"modul-name": "Elektrische und magnetische Felder",
+				"modul-id": "ET-12 08 02"
+			},
+			{
+				"name": "",
+				"url": "",
+				"modul-name": "Geräteentwicklung",
+				"modul-id": "ET-12 05 01"
 			}
 		]
 	},
@@ -79,52 +91,58 @@
 		"title": " 3. Semester",
 		"entries": [
 			{
+				"name": "",
+				"url": "",
+				"modul-name": "Mikrorechentechnik",
+				"modul-id": "ET-12 01 01"
+			},
+			{
 				"name": "Mathe 3",
-				"url": "https://tu-dresden.de/mn/math/wir/studium/lehrveranstaltungen/mathematik-fuer-et/mathe3",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"url": "",
+				"modul-name": "Funktionentheorie",
+				"modul-id": "ET-01 04 03"
 			},
 			{
-				"name": "Dynamische Netzwerke",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et3",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Elektrotechnik 3",
+				"url": "",
+				"modul-name": "Dynamische Netzwerke ",
+				"modul-id": ""
 			},
 			{
-				"name": "Technische Grundlagen der Informatik",
-				"url": "https://cfaed.tu-dresden.de/cc-teaching",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "ET-Praktikum 1",
+				"url": "",
+				"modul-name": "Dynamische Netzwerke ",
+				"modul-id": "ET-12 08 03"
 			},
 			{
-				"name": "Rechnerarchitektur I",
-				"url": "https://cfaed.tu-dresden.de/pd-teaching",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Systemtheorie 1",
+				"url": "",
+				"modul-name": "Systemtheorie",
+				"modul-id": "ET-12 09 01"
 			},
 			{
-				"name": "Systemtheorie I",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Elektroenergietechnik",
+				"url": "",
+				"modul-name": "Elektroenergietechnik",
+				"modul-id": "ET-12 04 01"
 			},
 			{
 				"name": "Elektronische Bauelemente",
-				"url": "http://www.iee.et.tu-dresden.de/iee/eb/lehre/lv/lak/BE_ET_MOD_lak.html",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"url": "",
+				"modul-name": "Technologien und Bauelemente der Mikroelektronik",
+				"modul-id": "ET-12 08 11"
 			},
 			{
-				"name": "Praktikum ET1",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/praktikum-et",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Mikrotechnologie",
+				"url": "",
+				"modul-name": "Technologien und Bauelemente der Mikroelektronik",
+				"modul-id": "ET-12 08 11"
 			},
 			{
-				"name": "Praktikum Softwaretechnologie",
-				"url": "https://tu-dresden.de/ing/informatik/smt/st/studium/lehrveranstaltungen?subject=381&lang=de&leaf=2&embedding_id=47eddfa7c5a54ed5be49042aff35a31b",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "",
+				"url": "",
+				"modul-name": " Praxisprojekt Elektronik-Technologie",
+				"modul-id": "ET-12 06 10"
 			}
 		]
 	},
@@ -133,45 +151,57 @@
 		"entries": [
 			{
 				"name": "Mathe 4",
-				"url": "https://tu-dresden.de/mn/math/stochastik/das-institut/beschaeftigte/wiltrud-kuhlisch/lehre/et_4_so_2018",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"url": "",
+				"modul-name": "Partielle Differentialgleichungen und Wahrscheinlichkeitstheorie",
+				"modul-id": "ET-01 04 04"
+			},
+			{
+				"name": "ET-Praktikum 2",
+				"url": "",
+				"modul-name": "Dynamische Netzwerke ",
+				"modul-id": "ET-12 08 03"
 			},
 			{
 				"name": "Schaltungstechnik",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ccn/studium/lehrveranstaltungen/schaltungstechnik?set_language=de",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"url": "",
+				"modul-name": "Schaltungstechnik",
+				"modul-id": "ET-12 08 31 "
+			},
+			{
+				"name": "Systemtheorie 2",
+				"url": "",
+				"modul-name": "Systemtheorie",
+				"modul-id": "ET-12 09 01"
 			},
 			{
 				"name": "Automatisierungstechnik",
-				"url": "http://www.et.tu-dresden.de/ifa/index.php?id=632",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"url": "",
+				"modul-name": "Automatisierungs- und Messtechnik",
+				"modul-id": "ET-12 01 02"
 			},
 			{
-				"name": "Rechnerarchitektur II",
-				"url": "https://tu-dresden.de/ing/informatik/ti/professur-fuer-rechnerarchitektur/studium/lehrveranstaltungen/vorlesungen/vorlesung-rechnerarchitektur-ii",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Messtechnik",
+				"url": "",
+				"modul-name": "Automatisierungs- und Messtechnik",
+				"modul-id": "ET-12 01 02"
 			},
 			{
-				"name": "Systemtheorie II",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Elektroenergietechnik",
+				"url": "",
+				"modul-name": "Elektroenergietechnik",
+				"modul-id": "ET-12 04 01"
 			},
 			{
-				"name": "Praktikum ET2",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/praktikum-et",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "",
+				"url": "",
+				"modul-name": "Mikrorechentechnik",
+				"modul-id": "ET-12 01 01"
 			},
 			{
-				"name": "Hardwarepraktikum",
-				"url": "https://tu-dresden.de/ing/informatik/ti/ads/studium/summer/hwp",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Nachrichtentechnik",
+				"url": "",
+				"modul-name": "Nachrichtentechnik",
+				"modul-id": "ET-12 10 24"
 			}
 		]
 	}

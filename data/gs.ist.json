@@ -137,6 +137,14 @@
 				"modul": "ET-01 04 01",
 				"modul-id": "ET-01 04 01",
 				"credits": 11
+			},
+			{
+				"name": "Auditorium",
+				"url": "https://auditorium.inf.tu-dresden.de/"
+			},
+			{
+				"name": "Inloop",
+				"url": "https://inloop.inf.tu-dresden.de/"
 			}
 		]
 	},

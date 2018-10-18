@@ -5,30 +5,25 @@
 			{
 				"name": "Betriebssysteme und Sicherheit",
 				"url": "http://www.inf.tu-dresden.de/index.php?node_id=1312&ln=de",
-				"modul": "ET-01 04 01",
-				"modul-id": "ET-01 04 01",
-				"credits": 11
+				"modul-name": "ET-01 04 01",
+				"modul-id": "ET-01 04 01"
 			},
 			{
 				"name": "Schaltkreis- und Systementwurf",
 				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/hpsn/studium/lehrveranstaltungen/sse?set_language=de",
-				"modul": "ET-01 04 01",
-				"modul-id": "ET-01 04 01",
-				"credits": 11
+				"modul-name": "ET-01 04 01",
 			},
 			{
 				"name": "Formale Systeme",
 				"url": "https://iccl.inf.tu-dresden.de/web/Formale_Systeme(WS2018)",
-				"modul": "ET-01 04 01",
-				"modul-id": "ET-01 04 01",
-				"credits": 11
+				"modul-name": "ET-01 04 01",
+				"modul-id": "ET-01 04 01"
 			},
 			{
 				"name": "Signalverarbeitung",
 				"url": "https://tu-dresden.de/ing/elektrotechnik/ias/juniorprofessur-fuer-kognitive-systeme/studium/lehrveranstaltungen/signalverarbietung",
-				"modul": "ET-01 04 01",
-				"modul-id": "ET-01 04 01",
-				"credits": 11
+				"modul-name": "ET-01 04 01",
+				"modul-id": "ET-01 04 01"
 			}
 		]
 	},
@@ -38,37 +33,32 @@
 			{
 				"name": "Compilerbau",
 				"url": "https://cfaed.tu-dresden.de/index.php/cc-teaching.html",
-				"modul": "ET-01 04 01",
-				"modul-id": "ET-01 04 01",
-				"credits": 11
+				"modul-name": "ET-01 04 01",
+				"modul-id": "ET-01 04 01"
 			},
 			{
 				"name": "Datenbanken",
 				"url": "https://wwwdb.inf.tu-dresden.de/study/teaching/summer-term-2018/datenbanken-grundlagen/",
-				"modul": "ET-01 04 01",
-				"modul-id": "ET-01 04 01",
-				"credits": 11
+				"modul-name": "ET-01 04 01",
+				"modul-id": "ET-01 04 01"
 			},
 			{
 				"name": "Informationstheorie",
 				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/informationstheorie",
-				"modul": "ET-01 04 01",
-				"modul-id": "ET-01 04 01",
-				"credits": 11
+				"modul-name": "ET-01 04 01",
+				"modul-id": "ET-01 04 01"
 			},
 			{
 				"name": "Nachrichtentechnik",
 				"url": "https://mns.ifn.et.tu-dresden.de/Teaching/Pages/Courses.aspx?get=15",
-				"modul": "ET-01 04 01",
-				"modul-id": "ET-01 04 01",
-				"credits": 11
+				"modul-name": "ET-01 04 01",
+				"modul-id": "ET-01 04 01"
 			},
 			{
 				"name": "Rechnernetze",
 				"url": "http://www.inf.tu-dresden.de/index.php?node_id=2568&ln=de&lv_id=1",
-				"modul": "ET-01 04 01",
-				"modul-id": "ET-01 04 01",
-				"credits": 11
+				"modul-name": "ET-01 04 01",
+				"modul-id": "ET-01 04 01"
 			}
 		]
 	}

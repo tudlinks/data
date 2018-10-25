@@ -4,7 +4,7 @@
 		"entries": [
 			{
 				"name": "Mathe 1",
-				"url": "http://www.math.tu-dresden.de/~wensch/mainfiles/?page=mathe1",
+				"url": "https://tu-dresden.de/mn/math/stochastik/das-institut/beschaeftigte/wiltrud-kuhlisch/lehre/et_1_wi_2018",
 				"modul-name": " Algebraische und analytische Grundlagen",
 				"modul-id": "ET-01 04 01"
 			},
@@ -22,7 +22,7 @@
 			},
 			{
 				"name": "Algorithmen und Datenstrukturen",
-				"url": "https://www.inf.tu-dresden.de/index.php?node_id=3749&ln=de",
+				"url": "https://www.orchid.inf.tu-dresden.de/teaching/2018ws/aud/",
 				"modul-name": "Algorithmen und Datenstrukturen",
 				"modul-id": "INF-D-210 "
 			},
@@ -51,13 +51,13 @@
 			},
 			{
 				"name": "Mathe 2",
-				"url": "http://www.math.tu-dresden.de/~feldm/mainfiles/index.php?lang=de&page=mathe2",
+				"url": "http://www.math.tu-dresden.de/~feldm/mainfiles/index.php?page=mathe2",
 				"modul-name": "Mehrdimensionale Differential- und Integralrechnung",
 				"modul-id": "ET-01 04 02"
 			},
 			{
 				"name": "Programmierung",
-				"url": "https://www.inf.tu-dresden.de/index.php?node_id=3774&ln=de",
+				"url": "https://www.inf.tu-dresden.de/index.php?node_id=3774",
 				"modul-name": "Programmierung",
 				"modul-id": "INF-B-240"
 			},
@@ -118,15 +118,19 @@
 				"name": "Praktikum Softwaretechnologie",
 				"url": "https://tu-dresden.de/ing/informatik/smt/st/studium/lehrveranstaltungen?subject=381&lang=de&leaf=2&embedding_id=47eddfa7c5a54ed5be49042aff35a31b",
 				"modul-name": "Softwaretechnologie-Projekt",
-				"modul-id": "INF-B-320 "
+				"modul-id": "INF-B-320"
 			},
 			{
 				"name": "Auditorium",
-				"url": "https://auditorium.inf.tu-dresden.de/"
+				"url": "https://auditorium.inf.tu-dresden.de/",
+				"modul-name": "",
+				"modul-id": ""
 			},
 			{
 				"name": "Inloop",
-				"url": "https://inloop.inf.tu-dresden.de/"
+				"url": "https://inloop.inf.tu-dresden.de/",
+				"modul-name": "Softwaretechnologie-Projekt",
+				"modul-id": ""
 			}
 		]
 	},
@@ -141,7 +145,7 @@
 			},
 			{
 				"name": "Schaltungstechnik",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ccn/studium/lehrveranstaltungen/schaltungstechnik?set_language=de",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ccn/studium/lehrveranstaltungen/schaltungstechnik",
 				"modul-name": "Schaltungstechnik",
 				"modul-id": "ET-12 08 31"
 			},
@@ -155,7 +159,7 @@
 				"name": "Rechnerarchitektur II",
 				"url": "https://tu-dresden.de/ing/informatik/ti/professur-fuer-rechnerarchitektur/studium/lehrveranstaltungen/vorlesungen/vorlesung-rechnerarchitektur-ii",
 				"modul-name": "Rechnerarchitektur",
-				"modul-id": "INF-B-330 "
+				"modul-id": "INF-B-330"
 			},
 			{
 				"name": "Systemtheorie II",

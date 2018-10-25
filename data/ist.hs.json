@@ -3,10 +3,40 @@
 		"title": "5. Semester",
 		"entries": [
 			{
-				"name": "",
-				"url": "",
-				"modul-name": "",
-				"modul-id": ""
+				"name": "Formale Systeme",
+				"url": "https://iccl.inf.tu-dresden.de/web/Formale_Systeme(WS2018)",
+				"modul-name": "Theorie und Anwendung formaler Systeme",
+				"modul-id": "INF-B-275"
+			},
+			{
+				"name": "Betriebssysteme und Sicherheit",
+				"url": "http://www.inf.tu-dresden.de/index.php?node_id=1312&ln=de",
+				"modul-name": "Betriebssysteme und Sicherheit",
+				"modul-id": "INF-B-380"
+			},
+			{
+				"name": "Signalverarbeitung",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ias/juniorprofessur-fuer-kognitive-systeme/studium/lehrveranstaltungen/signalverarbeitung",
+				"modul-name": "Signalverarbeitung und Informationstheorie",
+				"modul-id": "ET-12 10 27"
+			},
+			{
+				"name": "Schaltkreis- und Systementwurf",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/hpsn/studium/lehrveranstaltungen/sse",
+				"modul-name": "Schaltkreis- und Systementwurf",
+				"modul-id": "ET-12 08 18"
+			},
+			{
+				"name": "Englisch 1",
+				"url": "https://sprachausbildung.tu-dresden.de/templates/tyKursuebersicht.php?topic=spa_kursangebot&sprache=18&fid=13",
+				"modul-name": "Einführung in die Berufs- und  Wissenschaftssprache -  Grundlagen",
+				"modul-id": "ET-30 10 02 01"
+			},
+			{
+				"name": "Aqua",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/studium/studieren-an-der-fakultaet/lehrveranstaltungen/aqua",
+				"modul-name": "Allgemeine Qualifikationen (AQUA1)",
+				"modul-id": "ET-INF AQUA1"
 			}
 		]
 	},
@@ -16,32 +46,44 @@
 			{
 				"name": "Compilerbau",
 				"url": "https://cfaed.tu-dresden.de/index.php/cc-teaching.html",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"modul-name": "Theorie und Anwendung formaler Systeme",
+				"modul-id": "INF-B-275"
 			},
 			{
-				"name": "Datenbanken",
+				"name": "Datenbanken - Grundlagen",
 				"url": "https://wwwdb.inf.tu-dresden.de/study/teaching/summer-term-2018/datenbanken-grundlagen/",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
-			},
-			{
-				"name": "Informationstheorie",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/informationstheorie",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
-			},
-			{
-				"name": "Nachrichtentechnik",
-				"url": "https://mns.ifn.et.tu-dresden.de/Teaching/Pages/Courses.aspx?get=15",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"modul-name": "Datenbanken und Rechnernetze",
+				"modul-id": "INF-B-370"
 			},
 			{
 				"name": "Rechnernetze",
 				"url": "http://www.inf.tu-dresden.de/index.php?node_id=2568&ln=de&lv_id=1",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"modul-name": "Datenbanken und Rechnernetze",
+				"modul-id": "INF-B-370"
+			},
+			{
+				"name": "Informationstheorie",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/informationstheorie",
+				"modul-name": "Signalverarbeitung und Informationstheorie",
+				"modul-id": "ET-12 10 27"
+			},
+			{
+				"name": "https://mns.ifn.et.tu-dresden.de/Teaching/Pages/Courses.aspx?get=15",
+				"url": "Nachrichtentechnik",
+				"modul-name": "Nachrichtentechnik",
+				"modul-id": "ET-12 10 24"
+			},
+			{
+				"name": "Schaltkreis- und Systementwurf",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/hpsn/studium/lehrveranstaltungen/sse",
+				"modul-name": "Schaltkreis- und Systementwurf",
+				"modul-id": "ET-12 08 18"
+			},
+			{
+				"name": "Englisch 2",
+				"url": "https://sprachausbildung.tu-dresden.de/templates/tyKursuebersicht.php?topic=spa_kursangebot&sprache=18&fid=13",
+				"modul-name": "Einführung in die Berufs- und  Wissenschaftssprache -  Anwendung",
+				"modul-id": "ET-30 10 02 02"
 			}
 		]
 	}

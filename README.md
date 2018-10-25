@@ -6,7 +6,6 @@ Unilinks ist eine private Linksammlung zu Veranstaltungen von Studiengängen der
 
 ## Verfügbare Studiengänge
 
-Aktuell ist leider nur ein Studiengang aufgelistet:
 * Elektrotechnik (in Arbeit)
 * Informationssystemtechnik
 * Mechatronik (in Arbeit)

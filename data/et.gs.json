@@ -56,8 +56,8 @@
 				"modul-id": "ET-01 04 02"
 			},
 			{
-				"name": "",
-				"url": "Technische Mechanik",
+				"name": "Technische Mechanik",
+				"url": "",
 				"modul-name": "Werkstoffe und Technische Mechanik",
 				"modul-id": "ET-13 00 01"
 			},
@@ -207,9 +207,8 @@
 				"name": "Nachrichtentechnik",
 				"url": "https://mns.ifn.et.tu-dresden.de/Teaching/Courses/Pages/NT.aspx",
 				"modul-name": "Nachrichtentechnik",
-				"modul-id": "ET-12 10 24 "
+				"modul-id": "ET-12 10 24"
 			}
-
 		]
 	}
 ]

@@ -3,10 +3,46 @@
 		"title": "5. Semester",
 		"entries": [
 			{
-				"name": "",
+				"name": "Numerische Methoden der Festkörpermechanik",
 				"url": "",
-				"modul-name": "",
-				"modul-id": ""
+				"modul-name": "Numerische Methoden / Systemdynamik",
+				"modul-id": "MT-13 01 02"
+			},
+			{
+				"name": "Systemdynamik",
+				"url": "",
+				"modul-name": "Numerische Methoden / Systemdynamik",
+				"modul-id": "MT-13 01 02"
+			},
+			{
+				"name": "Leistungselektronik",
+				"url": "",
+				"modul-name": "Leistungselektronik",
+				"modul-id": "MT-12 02 22"
+			},
+			{
+				"name": "Regelungstechnik 1",
+				"url": "",
+				"modul-name": "Regelungstechnik und Ereignisdiskrete Systeme",
+				"modul-id": "MT-12 13 01"
+			},
+			{
+				"name": "Ereignisdiskrete Systeme 1",
+				"url": "",
+				"modul-name": "Regelungstechnik und Ereignisdiskrete Systeme",
+				"modul-id": "MT-12 13 01"
+			},
+			{
+				"name": "Mikrorechentechnik 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifa/plt/studium/lehrveranstaltungen/mikrorechentechnik/mikrorechentechnik-1",
+				"modul-name": "Mikrorechentechnik/Embedded Controller",
+				"modul-id": "MT-12 01 23"
+			},
+			{
+				"name": "Messtechnik II: Mess- und Sensortechnik",
+				"url": "",
+				"modul-name": "Mess- und Sensortechnik/Aktorik",
+				"modul-id": "MT-12 08 25"
 			}
 		]
 	},
@@ -14,34 +50,40 @@
 		"title": "6. Semester",
 		"entries": [
 			{
-				"name": "Compilerbau",
-				"url": "https://cfaed.tu-dresden.de/index.php/cc-teaching.html",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Feldtheorie",
+				"url": "",
+				"modul-name": "Feldtheorie",
+				"modul-id": "MT-13 01 01"
 			},
 			{
-				"name": "Datenbanken",
-				"url": "https://wwwdb.inf.tu-dresden.de/study/teaching/summer-term-2018/datenbanken-grundlagen/",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Praktikum Mechanische Strukturen",
+				"url": "",
+				"modul-name": "Numerische Methoden / Systemdynamik",
+				"modul-id": "MT-13 01 02"
 			},
 			{
-				"name": "Informationstheorie",
-				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/informationstheorie",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Praktikum Regelung und Steuerung",
+				"url": "",
+				"modul-name": "Regelungstechnik und Ereignisdiskrete Systeme",
+				"modul-id": "MT-12 13 01"
 			},
 			{
-				"name": "Nachrichtentechnik",
-				"url": "https://mns.ifn.et.tu-dresden.de/Teaching/Pages/Courses.aspx?get=15",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Mikrorechentechnik 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifa/plt/studium/lehrveranstaltungen-1/mikrorechentechnik/mikrorechentechnik-2",
+				"modul-name": "Mikrorechentechnik/Embedded Controller",
+				"modul-id": "MT-12 01 23"
 			},
 			{
-				"name": "Rechnernetze",
-				"url": "http://www.inf.tu-dresden.de/index.php?node_id=2568&ln=de&lv_id=1",
-				"modul-name": "ET-01 04 01",
-				"modul-id": "ET-01 04 01"
+				"name": "Embedded Controller",
+				"url": "",
+				"modul-name": "Mikrorechentechnik/Embedded Controller",
+				"modul-id": "MT-12 01 23"
+			},
+			{
+				"name": "Aktorik/Antriebstechnik",
+				"url": "",
+				"modul-name": "Mess- und Sensortechnik/Aktorik",
+				"modul-id": "MT-12 08 25"
 			}
 		]
 	}

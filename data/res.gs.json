@@ -3,26 +3,212 @@
 		"title": "1. Semester",
 		"entries": [
 			{
+				"name": "Mathe 1",
+				"url": "https://tu-dresden.de/mn/math/stochastik/das-institut/beschaeftigte/wiltrud-kuhlisch/lehre/et_1_wi_2018",
+				"modul-name": "Algebraische und analytische Grundlagen",
+				"modul-id": "RES-G01"
+			},
+			{
+				"name": "Physik 1",
+				"url": "https://tu-dresden.de/mn/physik/studium/lehrveranstaltungen/KVVLesFull.php?year=2018/19&var=103",
+				"modul-name": "Naturwissenschaftliche Grundlagen",
+				"modul-id": "RES-G03"
+			},
+			{
+				"name": "Informatik 1",
+				"url": "https://tu-dresden.de/ing/informatik/ti/ads/studium/winter/informatik-1-fuer-et-mt-res",
+				"modul-name": "Informatik",
+				"modul-id": "RES-G04"
+			},
+			{
+				"name": "Elektrotechnik 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et1",
+				"modul-name": "Grundlagen der Elektrotechnik",
+				"modul-id": "RES-G06"
+			},
+			{
 				"name": "",
 				"url": "",
-				"modul-name": "",
-				"modul-id": ""
+				"modul-name": "Einführungsprojekt Regenerative Energiesysteme",
+				"modul-id": "RES-G21"
 			}
 		]
 	},
 	{
 		"title": "2. Semester",
 		"entries": [
+			{
+				"name": "Mathe 2",
+				"url": "http://www.math.tu-dresden.de/~feldm/mainfiles/index.php?page=mathe2",
+				"modul-name": "Mehrdimensionale Differential- und Integralrechnung",
+				"modul-id": "RES-G02"
+			},
+			{
+				"name": "Physik 2 (Wahl)",
+				"url": "https://tu-dresden.de/mn/physik/studium/lehrveranstaltungen/vorlesungsverzeichnisse/KVVLesFull.php?year=2018&lang=D&var=205",
+				"modul-name": "Naturwissenschaftliche Grundlagen",
+				"modul-id": "RES-G03"
+			},
+			{
+				"name": "Chemie (Wahl)",
+				"url": "",
+				"modul-name": "Naturwissenschaftliche Grundlagen",
+				"modul-id": "RES-G03"
+			},
+			{
+				"name": "Informatik 2",
+				"url": "https://tu-dresden.de/ing/informatik/ti/ads/studium/summer/informatik-2-fuer-et-mt-res",
+				"modul-name": "Informatik",
+				"modul-id": "RES-G04"
+			},
+			{
+				"name": "Elektrotechnik 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et2",
+				"modul-name": "Elektrische und magnetische Felder",
+				"modul-id": "RES-G07"
+			},
+			{
+				"name": "Werkstoffe",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifww/wd/studium/lehrveranstaltungen/werkstoffe-et-mt-res",
+				"modul-name": "Werkstoffe und Technische Mechanik",
+				"modul-id": "RES-G14"
+			},
+			{
+				"name": "Technische Mechanik",
+				"url": "",
+				"modul-name": "Werkstoffe und Technische Mechanik",
+				"modul-id": "RES-G14"
+			},
+			{
+				"name": "Geräteentwicklung",
+				"url": "https://www.ifte.de/lehre/geraeteentwicklung/index.html",
+				"modul-name": "Geräteentwicklung",
+				"modul-id": "RES-G19"
+			},
+			{
+				"name": "Englisch 1",
+				"url": "https://sprachausbildung.tu-dresden.de/templates/tyKursuebersicht.php?topic=spa_kursangebot&sprache=18&fid=13",
+				"modul-name": "Einführung in die Berufs- u. Wissenschaftssprache 1",
+				"modul-id": "RES-G22"
+			}
 		]
 	},
 	{
 		"title": " 3. Semester",
 		"entries": [
+			{
+				"name": "Mathe 3",
+				"url": "https://tu-dresden.de/mn/math/wir/studium/lehrveranstaltungen/mathematik-fuer-et/mathe3",
+				"modul-name": "Funktionentheorie",
+				"modul-id": "RES-G05a"
+			},
+			{
+				"name": "Elektrotechnik 3",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et3",
+				"modul-name": "Dynamische Netzwerke",
+				"modul-id": "RES-G08"
+			},
+			{
+				"name": "Praktikum ET 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/praktikum-et",
+				"modul-name": "Dynamische Netzwerke",
+				"modul-id": "RES-G08"
+			},
+			{
+				"name": "Elektroenergietechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/eti/ema/studium/lehrveranstaltungen/elektroenergietechnik",
+				"modul-name": "Elektroenergietechnik",
+				"modul-id": "RES-G09"
+			},
+			{
+				"name": "Grundlagen der Kinematik und Kinetik",
+				"url": "",
+				"modul-name": "Grundlagen der Kinematik und Kinetik",
+				"modul-id": "RES-G15"
+			},
+			{
+				"name": "Technische Thermodynamik",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/iet/tt/studium/lehrveranstaltungen",
+				"modul-name": "Technische Thermodynamik",
+				"modul-id": "RES-G16"
+			},
+			{
+				"name": "Konstruktion",
+				"url": "",
+				"modul-name": "Konstruktion und Fertigungstechnik",
+				"modul-id": "RES-G20"
+			},
+			{
+				"name": "Fertigungstechnik",
+				"url": "",
+				"modul-name": "Konstruktion und Fertigungstechnik",
+				"modul-id": "RES-G20"
+			}
 		]
 	},
 	{
 		"title": "4. Semester",
 		"entries": [
+			{
+				"name": "Mathe 4",
+				"url": "https://tu-dresden.de/mn/math/stochastik/das-institut/beschaeftigte/wiltrud-kuhlisch/lehre/et_4_so_2018",
+				"modul-name": "Partielle Differentialgleichungen und Wahrscheinlichkeitstheorie",
+				"modul-id": "RES-G05b"
+			},
+			{
+				"name": "Praktikum ET 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/praktikum-et",
+				"modul-name": "Dynamische Netzwerke",
+				"modul-id": "RES-G08"
+			},
+			{
+				"name": "Elektroenergietechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ieeh/studium/moduluebersicht/diplom-regenerative-energiesysteme",
+				"modul-name": "Elektroenergietechnik",
+				"modul-id": "RES-G09"
+			},
+			{
+				"name": "Schaltungstechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/eti/ema/studium/lehrveranstaltungen/schaltungstechnik",
+				"modul-name": "Schaltungstechnik",
+				"modul-id": "RES-G10"
+			},
+			{
+				"name": "Automatisierungstechnik",
+				"url": "http://www.et.tu-dresden.de/ifa/index.php?id=632",
+				"modul-name": "Automatisierungstechnik",
+				"modul-id": "RES-G11"
+			},
+			{
+				"name": "Regenerative Energiequellen",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/iet/gewv/studium/lehrveranstaltungen/LV",
+				"modul-name": "Grundlagen Regenerativer Energiesysteme",
+				"modul-id": "RES-G12"
+			},
+			{
+				"name": "Einführung in die Systemtheorie",
+				"url": "",
+				"modul-name": "Grundlagen Regenerativer Energiesysteme",
+				"modul-id": "RES-G12"
+			},
+			{
+				"name": "Wärmeübertragung",
+				"url": "",
+				"modul-name": "Wärmeübertragung",
+				"modul-id": "RES-G17"
+			},
+			{
+				"name": "Strömungslehre",
+				"url": "",
+				"modul-name": "Strömungslehre",
+				"modul-id": "RES-G18"
+			},
+			{
+				"name": "Konstruktion",
+				"url": "",
+				"modul-name": "Konstruktion und Fertigungstechnik",
+				"modul-id": "RES-G20"
+			}
 		]
 	}
 ]

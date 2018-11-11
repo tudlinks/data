@@ -1,34 +1,68 @@
-[
-	{
-		"id": "ist",
-		"title": "Informationssystemtechnik"
-	},
-	{
-		"id": "et-amr",
-		"title": "Elektrotechnik (Automatisierungs-, Mess- und Regelungstechnik)"
-	},
-	{
-		"id": "et-eet",
-		"title": "Elektrotechnik (Elektroenergietechnik)"
-	},
-	{
-		"id": "et-gmm",
-		"title": "Elektrotechnik (Geräte-, Mikro- und Medizintechnik)"
-	},
-	{
-		"id": "et-it",
-		"title": "Elektrotechnik (Informationstechnik)"
-	},
-	{
-		"id": "et-me",
-		"title": "Elektrotechnik (Mikroelektronik)"
-	},
-	{
-		"id": "res",
-		"title": "Regenarative Energiesysteme"
-	},
-	{
-		"id": "mt",
-		"title": "Mechatronik"
-	}
-]
+{
+  "courses": [
+    {
+      "name": "Elektrotechnik (AMR)",
+      "files": [
+        "allg.json",
+        "et.gs.json",
+        "et.hs.amr.json"
+      ]
+    },
+    {
+      "name": "Elektrotechnik (EET)",
+      "files": [
+        "allg.json",
+        "et.gs.json",
+        "et.hs.eet.json"
+      ]
+    },
+    {
+      "name": "Elektrotechnik (GMM)",
+      "files": [
+        "allg.json",
+        "et.gs.json",
+        "et.hs.gmm.json"
+      ]
+    },
+    {
+      "name": "Elektrotechnik (IT)",
+      "files": [
+        "allg.json",
+        "et.gs.json",
+        "et.hs.it.json"
+      ]
+    },
+    {
+      "name": "Elektrotechnik (MEL)",
+      "files": [
+        "allg.json",
+        "et.gs.json",
+        "et.hs.mel.json"
+      ]
+    },
+    {
+      "name": "Informationssystemtechnik",
+      "files": [
+        "allg.json",
+        "ist.gs.json",
+        "ist.hs.json"
+      ]
+    },
+    {
+      "name": "Mechatronik",
+      "files": [
+        "allg.json",
+        "mt.gs.json",
+        "mt.hs.json"
+      ]
+    },
+    {
+      "name": "Regenerative Energiesysteme",
+      "files": [
+        "allg.json",
+        "res.gs.json",
+        "res.hs.json"
+      ]
+    }
+  ]
+}

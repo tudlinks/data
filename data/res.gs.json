@@ -27,7 +27,7 @@
 				"modul-id": "RES-G06"
 			},
 			{
-				"name": "",
+				"name": "Einführungsprojekt Regenerative Energiesysteme",
 				"url": "",
 				"modul-name": "Einführungsprojekt Regenerative Energiesysteme",
 				"modul-id": "RES-G21"
@@ -122,7 +122,7 @@
 			},
 			{
 				"name": "Grundlagen der Kinematik und Kinetik",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifkm/mmfs/studium/lehrveranstaltungen-1",
 				"modul-name": "Grundlagen der Kinematik und Kinetik",
 				"modul-id": "RES-G15"
 			},
@@ -134,13 +134,13 @@
 			},
 			{
 				"name": "Konstruktion",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/imm/me/studium/lehrveranstaltungen/maschinenelemente-fuer-mt-res-matk-kala-wing-und",
 				"modul-name": "Konstruktion und Fertigungstechnik",
 				"modul-id": "RES-G20"
 			},
 			{
 				"name": "Fertigungstechnik",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/if/studium/lehrveranstaltungen_ws",
 				"modul-name": "Konstruktion und Fertigungstechnik",
 				"modul-id": "RES-G20"
 			}
@@ -187,13 +187,13 @@
 			},
 			{
 				"name": "Einführung in die Systemtheorie",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/einfuehrung-systemtheorie",
 				"modul-name": "Grundlagen Regenerativer Energiesysteme",
 				"modul-id": "RES-G12"
 			},
 			{
 				"name": "Wärmeübertragung",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifvu/evt/studium/lehrveranstaltungen/SS_MB_ET/waermeuebertragung",
 				"modul-name": "Wärmeübertragung",
 				"modul-id": "RES-G17"
 			},
@@ -205,7 +205,7 @@
 			},
 			{
 				"name": "Konstruktion",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/imm/me/studium/lehrveranstaltungen/maschinenelemente-fuer-mt-res-matk-kala-wing-und",
 				"modul-name": "Konstruktion und Fertigungstechnik",
 				"modul-id": "RES-G20"
 			}

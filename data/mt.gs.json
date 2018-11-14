@@ -128,19 +128,19 @@
 			},
 			{
 				"name": "Technische Mechanik 2",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifkm/mmfs/studium/lehrveranstaltungen-1",
 				"modul-name": "Grundlagen der Kinematik und Kinetik",
 				"modul-id": "MT-13 01 02"
 			},
 			{
 				"name": "Fertigungstechnik",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/if/studium/lehrveranstaltungen_ws",
 				"modul-name": "Konstruktion und Fertigungstechnik",
 				"modul-id": "MT-13 12 01"
 			},
 			{
-				"name": "Konstruktion",
-				"url": "",
+				"name": "Konstruktion/Maschinenelemente",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/imm/me/studium/lehrveranstaltungen/maschinenelemente-fuer-mt-res-matk-kala-wing-und",
 				"modul-name": "Konstruktion und Fertigungstechnik",
 				"modul-id": "MT-13 12 01"
 			}
@@ -163,7 +163,7 @@
 			},
 			{
 				"name": "Praktikum Elektroenergietechnik",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/eti/ema/studium/lehrveranstaltungen/elektroenergietechnik",
 				"modul-name": "Elektroenergietechnik",
 				"modul-id": "MT-12 04 01"
 			},
@@ -193,13 +193,13 @@
 			},
 			{
 				"name": "Technische Mechanik 3",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifkm/dmt/studium/lehrveranstaltungen/technische-mechanik-vertiefung",
 				"modul-name": "Vertiefung Kinematik und Festigkeitslehre",
 				"modul-id": "MT-13 01 04"
 			},
 			{
 				"name": "Konstruktionsbeleg und CAD Tutorium",
-				"url": "",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/imm/me/studium/lehrveranstaltungen/maschinenelemente-fuer-mt-res-matk-kala-wing-und",
 				"modul-name": "Konstruktion und Fertigungstechnik",
 				"modul-id": "MT-13 12 01"
 			},

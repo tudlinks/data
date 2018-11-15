@@ -1,76 +1,74 @@
-{
-  "courses": [
-    {
-      "name": "Elektrotechnik (AMR)",
-	  "id": "et-amr",
-      "files": [
-        "allg.json",
-        "et.gs.json",
-        "et.hs.amr.json"
-      ]
-    },
-    {
-      "name": "Elektrotechnik (EET)",
-	  "id": "et-eet",
-      "files": [
-        "allg.json",
-        "et.gs.json",
-        "et.hs.eet.json"
-      ]
-    },
-    {
-      "name": "Elektrotechnik (GMM)",
-	  "id": "et-gmm",
-      "files": [
-        "allg.json",
-        "et.gs.json",
-        "et.hs.gmm.json"
-      ]
-    },
-    {
-      "name": "Elektrotechnik (IT)",
-	  "id": "et-it",
-      "files": [
-        "allg.json",
-        "et.gs.json",
-        "et.hs.it.json"
-      ]
-    },
-    {
-      "name": "Elektrotechnik (MEL)",
-	  "id": "et-mel",
-      "files": [
-        "allg.json",
-        "et.gs.json",
-        "et.hs.mel.json"
-      ]
-    },
-    {
-      "name": "Informationssystemtechnik",
-	  "id": "ist",
-      "files": [
-        "allg.json",
-        "ist.gs.json",
-        "ist.hs.json"
-      ]
-    },
-    {
-      "name": "Mechatronik",
-	  "id": "mt",
-      "files": [
-        "allg.json",
-        "mt.gs.json",
-        "mt.hs.json"
-      ]
-    },
-    {
-      "name": "Regenerative Energiesysteme",
-	  "id": "res",
-      "files": [
-        "allg.json",
-        "res.gs.json",
-        "res.hs.json"
-      ]
-    }
-  ]
-}
+[
+	{
+		"name": "Elektrotechnik (AMR)",
+		"id": "et-amr",
+		"files": [
+			"allg.json",
+			"et.gs.json",
+			"et.hs.amr.json"
+		]
+	},
+	{
+		"name": "Elektrotechnik (EET)",
+		"id": "et-eet",
+		"files": [
+			"allg.json",
+			"et.gs.json",
+			"et.hs.eet.json"
+		]
+	},
+	{
+		"name": "Elektrotechnik (GMM)",
+		"id": "et-gmm",
+		"files": [
+			"allg.json",
+			"et.gs.json",
+			"et.hs.gmm.json"
+		]
+	},
+	{
+		"name": "Elektrotechnik (IT)",
+		"id": "et-it",
+		"files": [
+			"allg.json",
+			"et.gs.json",
+			"et.hs.it.json"
+		]
+	},
+	{
+		"name": "Elektrotechnik (MEL)",
+		"id": "et-mel",
+		"files": [
+			"allg.json",
+			"et.gs.json",
+			"et.hs.mel.json"
+		]
+	},
+	{
+		"name": "Informationssystemtechnik",
+		"id": "ist",
+		"files": [
+			"allg.json",
+			"ist.gs.json",
+			"ist.hs.json"
+		]
+	},
+	{
+		"name": "Mechatronik",
+		"id": "mt",
+		"files": [
+			"allg.json",
+			"mt.gs.json",
+			"mt.hs.json"
+		]
+	},
+	{
+		"name": "Regenerative Energiesysteme",
+		"id": "res",
+		"files": [
+			"allg.json",
+			"res.gs.json",
+			"res.hs.json"
+		]
+	}
+]

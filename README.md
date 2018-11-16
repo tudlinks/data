@@ -13,4 +13,4 @@ Unilinks (Data) ist eine private Linksammlung zu Veranstaltungen von Studiengän
 
 ## Beitragen
 
-Vorschläge zu weiteren Links oder zu Aktualisierungen können als Pull request oder als Issue eingereicht werden. 
+Vorschläge zu weiteren Links oder zu Aktualisierungen können als **Pull request** oder **Issue** eingereicht werden. 

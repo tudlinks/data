@@ -68,8 +68,8 @@
 				"modul-id": "ET-12 10 27"
 			},
 			{
-				"name": "https://mns.ifn.et.tu-dresden.de/Teaching/Pages/Courses.aspx?get=15",
-				"url": "Nachrichtentechnik",
+				"name": "Nachrichtentechnik",
+				"url": "https://mns.ifn.et.tu-dresden.de/Teaching/Pages/Courses.aspx?get=15",
 				"modul-name": "Nachrichtentechnik",
 				"modul-id": "ET-12 10 24"
 			},

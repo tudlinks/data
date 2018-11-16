@@ -49,6 +49,7 @@
 		"id": "ist",
 		"files": [
 			"allg.json",
+			"allg.ist.json",
 			"ist.gs.json",
 			"ist.hs.json"
 		]

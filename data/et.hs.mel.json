@@ -1,0 +1,54 @@
+[
+	{
+		"title": "5. Semester",
+		"entries": [
+			{
+				"name": "Theoretische Elektrotechnik 1",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/18605572106?12",
+				"modul-name": "Theoretische Elektrotechnik",
+				"modul-id": "ET-12 02 01"
+			},
+			{
+				"name": "Numerische Mathematik",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/15509127174?10",
+				"modul-name": "Numerische Mathematik",
+				"modul-id": "ET-12 02 02"
+			},
+			{
+				"name": "Praktikum Schaltungstechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ccn/studium/lehrveranstaltungen/schaltungstechnik-eum",
+				"modul-name": "Schaltungstechnik – Experimente und Messungen",
+				"modul-id": "ET-12 08 32"
+			},
+			{
+				"name": "Mess- und Sensortechnik 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/mess-und-sensortechnik",
+				"modul-name": "Mess- und Sensortechnik",
+				"modul-id": "ET-12 08 06"
+			},
+			{
+				"name": "Praktikum MT2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/mess-und-sensortechnik",
+				"modul-name": "Mess- und Sensortechnik",
+				"modul-id": "ET-12 08 06 "
+			}
+		]
+	},
+	{
+		"title": "6. Semester",
+		"entries": [
+			{
+				"name": "Theoretische Elektrotechnik 2",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/17090478083?13",
+				"modul-name": "Theoretische Elektrotechnik",
+				"modul-id": "ET-12 02 01"
+			},
+			{
+				"name": "Englisch 2",
+				"url": "https://sprachausbildung.tu-dresden.de/templates/tyKursuebersicht.php?topic=spa_kursangebot&sprache=18&fid=13",
+				"modul-name": "Einführung in die Berufs- und Wissenschaftssprache – Anwendungen",
+				"modul-id": "ET-30 10 02 02"
+			}
+		]
+	}
+]

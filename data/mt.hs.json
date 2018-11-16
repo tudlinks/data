@@ -1,0 +1,90 @@
+[
+	{
+		"title": "5. Semester",
+		"entries": [
+			{
+				"name": "Numerische Methoden der Festkörpermechanik",
+				"url": "",
+				"modul-name": "Numerische Methoden / Systemdynamik",
+				"modul-id": "MT-13 01 02"
+			},
+			{
+				"name": "Systemdynamik",
+				"url": "",
+				"modul-name": "Numerische Methoden / Systemdynamik",
+				"modul-id": "MT-13 01 02"
+			},
+			{
+				"name": "Leistungselektronik",
+				"url": "",
+				"modul-name": "Leistungselektronik",
+				"modul-id": "MT-12 02 22"
+			},
+			{
+				"name": "Regelungstechnik 1",
+				"url": "",
+				"modul-name": "Regelungstechnik und Ereignisdiskrete Systeme",
+				"modul-id": "MT-12 13 01"
+			},
+			{
+				"name": "Ereignisdiskrete Systeme 1",
+				"url": "",
+				"modul-name": "Regelungstechnik und Ereignisdiskrete Systeme",
+				"modul-id": "MT-12 13 01"
+			},
+			{
+				"name": "Mikrorechentechnik 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifa/plt/studium/lehrveranstaltungen/mikrorechentechnik/mikrorechentechnik-1",
+				"modul-name": "Mikrorechentechnik/Embedded Controller",
+				"modul-id": "MT-12 01 23"
+			},
+			{
+				"name": "Messtechnik II: Mess- und Sensortechnik",
+				"url": "",
+				"modul-name": "Mess- und Sensortechnik/Aktorik",
+				"modul-id": "MT-12 08 25"
+			}
+		]
+	},
+	{
+		"title": "6. Semester",
+		"entries": [
+			{
+				"name": "Feldtheorie",
+				"url": "",
+				"modul-name": "Feldtheorie",
+				"modul-id": "MT-13 01 01"
+			},
+			{
+				"name": "Praktikum Mechanische Strukturen",
+				"url": "",
+				"modul-name": "Numerische Methoden / Systemdynamik",
+				"modul-id": "MT-13 01 02"
+			},
+			{
+				"name": "Praktikum Regelung und Steuerung",
+				"url": "",
+				"modul-name": "Regelungstechnik und Ereignisdiskrete Systeme",
+				"modul-id": "MT-12 13 01"
+			},
+			{
+				"name": "Mikrorechentechnik 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifa/plt/studium/lehrveranstaltungen-1/mikrorechentechnik/mikrorechentechnik-2",
+				"modul-name": "Mikrorechentechnik/Embedded Controller",
+				"modul-id": "MT-12 01 23"
+			},
+			{
+				"name": "Embedded Controller",
+				"url": "",
+				"modul-name": "Mikrorechentechnik/Embedded Controller",
+				"modul-id": "MT-12 01 23"
+			},
+			{
+				"name": "Aktorik/Antriebstechnik",
+				"url": "",
+				"modul-name": "Mess- und Sensortechnik/Aktorik",
+				"modul-id": "MT-12 08 25"
+			}
+		]
+	}
+]

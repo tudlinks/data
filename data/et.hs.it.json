@@ -1,0 +1,114 @@
+[
+	{
+		"title": "5. Semester",
+		"entries": [
+			{
+				"name": "Theoretische Elektrotechnik 1",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/18605572106?12",
+				"modul-name": "Theoretische Elektrotechnik",
+				"modul-id": "ET-12 02 01"
+			},
+			{
+				"name": "Numerische Mathematik",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/15509127174?10",
+				"modul-name": "Numerische Mathematik",
+				"modul-id": "ET-12 02 02"
+			},
+			{
+				"name": "Praktikum Schaltungstechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ccn/studium/lehrveranstaltungen/schaltungstechnik-eum",
+				"modul-name": "Schaltungstechnik – Experimente und Messungen",
+				"modul-id": "ET-12 08 32"
+			},
+			{
+				"name": "Mess- und Sensortechnik 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/mess-und-sensortechnik",
+				"modul-name": "Mess- und Sensortechnik",
+				"modul-id": "ET-12 08 06"
+			},
+			{
+				"name": "Praktikum MT2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/mess-und-sensortechnik",
+				"modul-name": "Mess- und Sensortechnik",
+				"modul-id": "ET-12 08 06"
+			},
+			{
+				"name": "Integrierte Analogschaltungen",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ccn/studium/lehrveranstaltungen/integrierte-analogschaltungen",
+				"modul-name": "Integrierte Analogschaltungen",
+				"modul-id": "ET-12 08 12"
+			},
+			{
+				"name": "Digitale Signalübertragung",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/5587730442?15",
+				"modul-name": "Signaltheorie",
+				"modul-id": "ET-12 09 02"
+			},
+			{
+				"name": "Signalverarbeitung",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ias/juniorprofessur-fuer-kognitive-systeme/studium/lehrveranstaltungen/signalverarbeitung",
+				"modul-name": "Signaltheorie",
+				"modul-id": "ET-12 09 02"
+			},
+			{
+				"name": "Schaltkreis- und Systementwurf",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/hpsn/studium/lehrveranstaltungen/sse",
+				"modul-name": "Schaltkreis- und Systementwurf",
+				"modul-id": "ET-12 08 18"
+			}
+		]
+	},
+	{
+		"title": "6. Semester",
+		"entries": [
+			{
+				"name": "Theoretische Elektrotechnik 2",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/17090478083?13",
+				"modul-name": "Theoretische Elektrotechnik ",
+				"modul-id": "ET-12 02 01"
+			},
+			{
+				"name": "Englisch 2",
+				"url": "https://sprachausbildung.tu-dresden.de/templates/tyKursuebersicht.php?topic=spa_kursangebot&sprache=18&fid=13",
+				"modul-name": "Einführung in die Berufs- und Wissenschaftssprache – Anwendungen",
+				"modul-id": "ET-30 10 02 02"
+			},
+			{
+				"name": "Schaltkreis- und Systementwurf",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/hpsn/studium/lehrveranstaltungen/sse",
+				"modul-name": "Schaltkreis- und Systementwurf",
+				"modul-id": "ET-12 08 18"
+			},
+			{
+				"name": "Akustik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ias/aha/studium/lehrveranstaltungen/vorlesungen/akustik",
+				"modul-name": "Akustik",
+				"modul-id": "ET-12 09 06"
+			},
+			{
+				"name": "Informationstheorie",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/informationstheorie",
+				"modul-name": "Informationstheorie",
+				"modul-id": "ET-12 10 01"
+			},
+			{
+				"name": "Hauptseminar Kommunikationssysteme",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ias/juniorprofessur-fuer-kognitive-systeme/studium/lehrveranstaltungen/hauptseminar-kommunikationssyteme",
+				"modul-name": "Hauptseminar Kommunikationssysteme",
+				"modul-id": "ET-12 10 02"
+			},
+			{
+				"name": "Hoch- und Höchstfrequenztechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/hf/studium/lehrveranstaltungen/hoch-und-hoechstfrequenztechnik",
+				"modul-name": "Hoch- und Höchstfrequenztechnik",
+				"modul-id": "ET-12 10 03"
+			},
+			{
+				"name": "Kommunikationsnetze, Basismodul",
+				"url": "https://cn.ifn.et.tu-dresden.de/teaching/lectures/comnets/",
+				"modul-name": "Kommunikationsnetze, Basismodul",
+				"modul-id": "ET-12 10 04"
+			}
+		]
+	}
+]

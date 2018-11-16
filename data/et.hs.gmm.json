@@ -1,0 +1,132 @@
+[
+	{
+		"title": "5. Semester",
+		"entries": [
+			{
+				"name": "Theoretische Elektrotechnik 1",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/18605572106?12",
+				"modul-name": "Theoretische Elektrotechnik",
+				"modul-id": "ET-12 02 01"
+			},
+			{
+				"name": "Numerische Mathematik",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/15509127174?10",
+				"modul-name": "Numerische Mathematik",
+				"modul-id": "ET-12 02 02"
+			},
+			{
+				"name": "Praktikum Schaltungstechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ccn/studium/lehrveranstaltungen/schaltungstechnik-eum",
+				"modul-name": "Schaltungstechnik – Experimente und Messungen",
+				"modul-id": "ET-12 08 32"
+			},
+			{
+				"name": "Mess- und Sensortechnik 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/mess-und-sensortechnik",
+				"modul-name": "Mess- und Sensortechnik",
+				"modul-id": "ET-12 08 06"
+			},
+			{
+				"name": "Praktikum MT2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/mess-und-sensortechnik",
+				"modul-name": "Mess- und Sensortechnik",
+				"modul-id": "ET-12 08 06"
+			},
+			{
+				"name": "",
+				"url": "",
+				"modul-name": "",
+				"modul-id": ""
+			},
+			{
+				"name": "",
+				"url": "",
+				"modul-name": "",
+				"modul-id": ""
+			},
+			{
+				"name": "",
+				"url": "",
+				"modul-name": "",
+				"modul-id": ""
+			},
+			{
+				"name": "",
+				"url": "",
+				"modul-name": "",
+				"modul-id": ""
+			}
+		]
+	},
+	{
+		"title": "6. Semester",
+		"entries": [
+			{
+				"name": "Theoretische Elektrotechnik 2",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/17090478083?13",
+				"modul-name": "Theoretische Elektrotechnik",
+				"modul-id": "ET-12 02 01"
+			},
+			{
+				"name": "Englisch 2",
+				"url": "https://sprachausbildung.tu-dresden.de/templates/tyKursuebersicht.php?topic=spa_kursangebot&sprache=18&fid=13",
+				"modul-name": "Einführung in die Berufs- und Wissenschaftssprache – Anwendungen",
+				"modul-id": "ET-30 10 02 02"
+			},
+			{
+				"name": "Projekt Geräte- und Mikrotechnik II",
+				"url": "https://www.ifte.de/lehre/projekt_gmt_2/index.html",
+				"modul-name": "Gerätetechnik",
+				"modul-id": "ET-12 05 03"
+			},
+			{
+				"name": "Einführung in die Sensorik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ife/studium/lehrveranstaltungen/lehre/einfuehrung_sensorik",
+				"modul-name": "Gerätetechnik",
+				"modul-id": "ET-12 05 03"
+			},
+			{
+				"name": "Technische Optik",
+				"url": "https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/585433089/CourseNode/77331936532912?4",
+				"modul-name": "Gerätetechnik",
+				"modul-id": "ET-12 05 03"
+			},
+			{
+				"name": "Strahlenanwendung in der Medizin",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ibmt/studium/lehrveranstaltungen",
+				"modul-name": "Biomedizinische Technik",
+				"modul-id": "ET-12 07 01"
+			},
+			{
+				"name": "Montagetechnologien der Elektronik",
+				"url": "https://www.avt.et.tu-dresden.de/studium/sommersemester/",
+				"modul-name": "Technologien der Elektronik",
+				"modul-id": "ET-12 06 01"
+			},
+			{
+				"name": "Rechnergestützter Entwurf (VL)",
+				"url": "https://www.ifte.de/lehre/rechn_entwurf/index.html",
+				"modul-name": "Rechnergestützter Entwurf",
+				"modul-id": "ET-12 05 05"
+			},
+			{
+				"name": "Rechnergestützter Entwurf (Praktikum)",
+				"url": "https://www.ifte.de/lehre/rechn_entwurf/uebung/praktikumegt.html",
+				"modul-name": "Rechnergestützter Entwurf",
+				"modul-id": "ET-12 05 05"
+			},
+			{
+				"name": "Grundlagen der Konstruktion",
+				"url": "https://www.ifte.de/lehre/konstruktion/index.html",
+				"modul-name": "Konstruktion",
+				"modul-id": "ET-12 05 04"
+			},
+			{
+				"name": "Qualitätssicherung",
+				"url": "https://www.avt.et.tu-dresden.de/studium/lv-einzelseiten/06-qualitaetssicherung/",
+				"modul-name": "Qualitätssicherung",
+				"modul-id": "ET-12 06 03"
+			}
+		]
+	}
+]

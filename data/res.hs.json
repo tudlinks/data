@@ -1,0 +1,114 @@
+[
+	{
+		"title": "5. Semester",
+		"entries": [
+			{
+				"name": "Grundlagen der Elektroenergieanlagen",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ieeh/studium/moduluebersicht/diplom-regenerative-energiesysteme",
+				"modul-name": "Grundlagen elektrischer Energieversorgungssysteme",
+				"modul-id": "RES-H02"
+			},
+			{
+				"name": "Betriebsmittel und Berechnungs-grundlagen für elektrische Energie- versorgungssysteme",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ieeh/studium/moduluebersicht/diplom-regenerative-energiesysteme",
+				"modul-name": "Grundlagen elektrischer Energieversorgungssysteme",
+				"modul-id": "RES-H02"
+			},
+			{
+				"name": "Hochspannungs- und Hochstromtechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ieeh/studium/moduluebersicht/diplom-regenerative-energiesysteme",
+				"modul-name": "Hochspannungs- und Hochstromtechnik",
+				"modul-id": "RES-H04"
+			},
+			{
+				"name": "Leistungselektronik 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/eti/le/studium/lehrveranstaltungen#section-4",
+				"modul-name": "Leistungselektronik",
+				"modul-id": "RES-H05"
+			},
+			{
+				"name": "Elektrische Maschinen",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/eti/ema/studium/lehrveranstaltungen/#section-2-5",
+				"modul-name": "Elektrische Maschinen",
+				"modul-id": "RES-H06"
+			},
+			{
+				"name": "Regelungstechnik 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/rst/studium/lehrveranstaltungen/wintersemester",
+				"modul-name": "Regelungstechnik",
+				"modul-id": "RES–H07"
+			},
+			{
+				"name": "Mess- und Sensortechnik",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ism/mfd/studium/lehrveranstaltungen",
+				"modul-name": "Mess- und Sensortechnik",
+				"modul-id": "RES-H08"
+			},
+			{
+				"name": "Prozessthermodynamik",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/iet/tt/studium/lehrveranstaltungen",
+				"modul-name": "Prozessthermodynamik",
+				"modul-id": "RES-H09"
+			},
+			{
+				"name": "Oberseminar",
+				"url": "",
+				"modul-name": "Oberseminar",
+				"modul-id": "RES-H15"
+			}
+		]
+	},
+	{
+		"title": "6. Semester",
+		"entries": [
+			{
+				"name": "Vertiefung Regenerativer Energiesysteme",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/iet/gewv/studium/lehrveranstaltungen/LV",
+				"modul-name": "Vertiefung Regenerativer Energiesysteme",
+				"modul-id": "RES-H01"
+			},
+			{
+				"name": "BWL/Einführung in die Energiewirtschaft",
+				"url": "",
+				"modul-name": "BWL/Einführung in die Energiewirtschaft",
+				"modul-id": "RES-H03"
+			},
+			{
+				"name": "Praktikum Elektrische Maschinen",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/eti/ema/studium/lehrveranstaltungen/#section-2-5",
+				"modul-name": "Elektrische Maschinen",
+				"modul-id": "RES-H06"
+			},
+			{
+				"name": "Praktikum Regelungstechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/rst/studium/lehrveranstaltungen/sommersemester#ck_PraktRES",
+				"modul-name": "Regelungstechnik",
+				"modul-id": "RES–H07"
+			},
+			{
+				"name": "Grundlagen der Turbomaschinen",
+				"url": "",
+				"modul-name": "Grundlagen der Fluidenergiemaschinen",
+				"modul-id": "RES-H10"
+			},
+			{
+				"name": "Grundlagen der Kolbenmaschinen",
+				"url": "",
+				"modul-name": "Grundlagen der Fluidenergiemaschinen",
+				"modul-id": "RES-H10"
+			},
+			{
+				"name": "Grundlagen der Fluidenergiemaschinen",
+				"url": "",
+				"modul-name": "Grundlagen der Fluidenergiemaschinen",
+				"modul-id": "RES-H10"
+			},
+			{
+				"name": "Englisch 2",
+				"url": "https://sprachausbildung.tu-dresden.de/templates/tyKursuebersicht.php?topic=spa_kursangebot&sprache=18&fid=13",
+				"modul-name": "Einführung in die Berufs- u. Wissenschaftssprache 2",
+				"modul-id": "RES-H11"
+			}
+		]
+	}
+]

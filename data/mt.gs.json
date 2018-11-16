@@ -1,0 +1,214 @@
+[
+	{
+		"title": "1. Semester",
+		"entries": [
+			{
+				"name": "Mathe 1",
+				"url": "https://tu-dresden.de/mn/math/stochastik/das-institut/beschaeftigte/wiltrud-kuhlisch/lehre/et_1_wi_2018",
+				"modul-name": "Algebraische und analytische Grundlagen",
+				"modul-id": "MT-01 04 01"
+			},
+			{
+				"name": "Physik 1",
+				"url": "https://tu-dresden.de/mn/physik/studium/lehrveranstaltungen/KVVLesFull.php?year=2018/19&var=103",
+				"modul-name": "Naturwissenschaftliche Grundlagen",
+				"modul-id": "MT-02 04 05"
+			},
+			{
+				"name": "Informatik 1",
+				"url": "https://tu-dresden.de/ing/informatik/ti/ads/studium/winter/informatik-1-fuer-et-mt-res",
+				"modul-name": "Informatik",
+				"modul-id": "MT-11 02 01"
+			},
+			{
+				"name": "Elektrotechnik 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et1",
+				"modul-name": "Grundlagen der Elektrotechnik",
+				"modul-id": "MT-12 08 01"
+			},
+			{
+				"name": "Werkstoffe",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifww/wd/studium/lehrveranstaltungen/werkstoffe-et-mt-res",
+				"modul-name": "Werkstoffe und Technische Mechanik",
+				"modul-id": "MT-13 00 01"
+			},
+			{
+				"name": "Einführungsprojekt Mechatronik",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifkm/dmt/studium/lehrveranstaltungen/einf_mechatronik",
+				"modul-name": "Einführungsprojekt Mechatronik",
+				"modul-id": "MT-13 EP"
+			}
+		]
+	},
+	{
+		"title": "2. Semester",
+		"entries": [
+			{
+				"name": "Mathe 2",
+				"url": "http://www.math.tu-dresden.de/~feldm/mainfiles/index.php?page=mathe2",
+				"modul-name": "Mehrdimensionale Differential- und Integralrechnung",
+				"modul-id": "MT-01 04 02"
+			},
+			{
+				"name": "Physik 2 (Wahl)",
+				"url": "https://tu-dresden.de/mn/physik/studium/lehrveranstaltungen/vorlesungsverzeichnisse/KVVLesFull.php?year=2018&lang=D&var=205",
+				"modul-name": "Naturwissenschaftliche Grundlagen",
+				"modul-id": "MT-02 04 05"
+			},
+			{
+				"name": "Chemie (Wahl)",
+				"url": "",
+				"modul-name": "Naturwissenschaftliche Grundlagen",
+				"modul-id": "MT-02 04 05"
+			},
+			{
+				"name": "Informatik 2",
+				"url": "https://tu-dresden.de/ing/informatik/ti/ads/studium/summer/informatik-2-fuer-et-mt-res",
+				"modul-name": "Informatik",
+				"modul-id": "MT-11 02 01"
+			},
+			{
+				"name": "Elektrotechnik 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et2",
+				"modul-name": "Elektrische und magnetische Felder",
+				"modul-id": "MT-12 08 23"
+			},
+			{
+				"name": "Technische Mechanik 1",
+				"url": "",
+				"modul-name": "Werkstoffe und Technische Mechanik",
+				"modul-id": "MT-13 00 01"
+			},
+			{
+				"name": "Englisch 1",
+				"url": "https://sprachausbildung.tu-dresden.de/templates/tyKursuebersicht.php?topic=spa_kursangebot&sprache=18&fid=13",
+				"modul-name": "Einführung in die Berufs- und Wissenschaftssprache  – Grundlagen",
+				"modul-id": "MT-30 10 02 01"
+			},
+			{
+				"name": "Geräteentwicklung",
+				"url": "https://www.ifte.de/lehre/geraeteentwicklung/index.html",
+				"modul-name": "Geräteentwicklung",
+				"modul-id": "MT-12 05 01"
+			}
+		]
+	},
+	{
+		"title": " 3. Semester",
+		"entries": [
+			{
+				"name": "Mathe 3",
+				"url": "https://tu-dresden.de/mn/math/wir/studium/lehrveranstaltungen/mathematik-fuer-et/mathe3",
+				"modul-name": "Funktionentheorie",
+				"modul-id": "MT-01 04 03"
+			},
+			{
+				"name": "Elektrotechnik 3",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et3",
+				"modul-name": "Dynamische Netzwerke",
+				"modul-id": "MT-12 08 03"
+			},
+			{
+				"name": "Praktikum ET 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/praktikum-et",
+				"modul-name": "Dynamische Netzwerke",
+				"modul-id": "MT-12 08 03"
+			},
+			{
+				"name": "Elektroenergietechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/eti/ema/studium/lehrveranstaltungen/elektroenergietechnik",
+				"modul-name": "Elektroenergietechnik",
+				"modul-id": "MT-12 04 01"
+			},
+			{
+				"name": "Systemtheorie 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie",
+				"modul-name": "Systemtheorie",
+				"modul-id": "MT-12 09 01"
+			},
+			{
+				"name": "Technische Mechanik 2",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifkm/mmfs/studium/lehrveranstaltungen-1",
+				"modul-name": "Grundlagen der Kinematik und Kinetik",
+				"modul-id": "MT-13 01 02"
+			},
+			{
+				"name": "Fertigungstechnik",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/if/studium/lehrveranstaltungen_ws",
+				"modul-name": "Konstruktion und Fertigungstechnik",
+				"modul-id": "MT-13 12 01"
+			},
+			{
+				"name": "Konstruktion/Maschinenelemente",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/imm/me/studium/lehrveranstaltungen/maschinenelemente-fuer-mt-res-matk-kala-wing-und",
+				"modul-name": "Konstruktion und Fertigungstechnik",
+				"modul-id": "MT-13 12 01"
+			}
+		]
+	},
+	{
+		"title": "4. Semester",
+		"entries": [
+			{
+				"name": "Mathe 4",
+				"url": "https://tu-dresden.de/mn/math/stochastik/das-institut/beschaeftigte/wiltrud-kuhlisch/lehre/et_4_so_2018",
+				"modul-name": "Partielle Differentialgleichungen und Wahrscheinlichkeitstheorie",
+				"modul-id": "MT-01 04 04"
+			},
+			{
+				"name": "Praktikum ET 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/praktikum-et",
+				"modul-name": "Dynamische Netzwerke",
+				"modul-id": "MT-12 08 03"
+			},
+			{
+				"name": "Praktikum Elektroenergietechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/eti/ema/studium/lehrveranstaltungen/elektroenergietechnik",
+				"modul-name": "Elektroenergietechnik",
+				"modul-id": "MT-12 04 01"
+			},
+			{
+				"name": "Schaltungstechnik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/eti/ema/studium/lehrveranstaltungen/schaltungstechnik",
+				"modul-name": "Schaltungstechnik",
+				"modul-id": "MT-12 02 21"
+			},
+			{
+				"name": "Automatisierungstechnik",
+				"url": "http://www.et.tu-dresden.de/ifa/index.php?id=632",
+				"modul-name": "Automatisierungs- und Messtechnik",
+				"modul-id": "MT-12 01 02"
+			},
+			{
+				"name": "Messtechnik 1",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/mst/studium/lehrveranstaltungen/messtechnik-1-grundzuege-des-messens",
+				"modul-name": "Automatisierungs- und Messtechnik",
+				"modul-id": "MT-12 01 02"
+			},
+			{
+				"name": "Systemtheorie 2",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ifn/tnt/studium/lv/systemtheorie",
+				"modul-name": "Systemtheorie",
+				"modul-id": "MT-12 09 01"
+			},
+			{
+				"name": "Technische Mechanik 3",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifkm/dmt/studium/lehrveranstaltungen/technische-mechanik-vertiefung",
+				"modul-name": "Vertiefung Kinematik und Festigkeitslehre",
+				"modul-id": "MT-13 01 04"
+			},
+			{
+				"name": "Konstruktionsbeleg und CAD Tutorium",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/imm/me/studium/lehrveranstaltungen/maschinenelemente-fuer-mt-res-matk-kala-wing-und",
+				"modul-name": "Konstruktion und Fertigungstechnik",
+				"modul-id": "MT-13 12 01"
+			},
+			{
+				"name": "Englisch 2",
+				"url": "https://sprachausbildung.tu-dresden.de/templates/tyKursuebersicht.php?topic=spa_kursangebot&sprache=18&fid=13",
+				"modul-name": "Einführung in die Berufs- und Wissenschaftssprache  – Anwendung",
+				"modul-id": "MT-30 10 02 02"
+			}
+		]
+	}
+]

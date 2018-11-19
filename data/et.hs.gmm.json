@@ -33,28 +33,28 @@
 				"modul-id": "ET-12 08 06"
 			},
 			{
-				"name": "",
-				"url": "",
-				"modul-name": "",
-				"modul-id": ""
+				"name": "https://www.ifte.de/lehre/projekt_gmt/index.html",
+				"url": "Hauptseminar Geräte-, Mikro- und Medizintechnik",
+				"modul-name": "Hauptseminar Geräte-, Mikro- und Medizintechnik",
+				"modul-id": "ET-12 05 02"
 			},
 			{
-				"name": "",
-				"url": "",
-				"modul-name": "",
-				"modul-id": ""
+				"name": "CAD-Konstruktion",
+				"url": "https://www.ifte.de/lehre/cad/index.html",
+				"modul-name": "Konstruktion",
+				"modul-id": "ET-12 05 04"
 			},
 			{
-				"name": "",
-				"url": "",
-				"modul-name": "",
-				"modul-id": ""
+				"name": "Grundlagen der Konstruktion",
+				"url": "https://www.ifte.de/lehre/konstruktion/index.html",
+				"modul-name": "Konstruktion",
+				"modul-id": "ET-12 05 04"
 			},
 			{
-				"name": "",
-				"url": "",
-				"modul-name": "",
-				"modul-id": ""
+				"name": "Biomedizinische Technik",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ibmt/studium/lehrveranstaltungen",
+				"modul-name": "Biomedizinische Technik",
+				"modul-id": "ET-12 07 01"
 			}
 		]
 	},

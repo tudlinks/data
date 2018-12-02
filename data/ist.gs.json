@@ -66,6 +66,12 @@
 				"url": "http://www.math.tu-dresden.de/~baumann/algebra_fuer_informationssystemtechniker.html",
 				"modul-name": "Algebra",
 				"modul-id": "ET-01 04 05"
+			},
+			{
+				"name": "Inloop",
+				"url": "https://inloop.inf.tu-dresden.de/",
+				"modul-name": "",
+				"modul-id": ""
 			}
 		]
 	},
@@ -119,12 +125,6 @@
 				"url": "https://tu-dresden.de/ing/informatik/smt/st/studium/lehrveranstaltungen?subject=381&lang=de&leaf=2&embedding_id=47eddfa7c5a54ed5be49042aff35a31b",
 				"modul-name": "Softwaretechnologie-Projekt",
 				"modul-id": "INF-B-320"
-			},
-			{
-				"name": "Inloop",
-				"url": "https://inloop.inf.tu-dresden.de/",
-				"modul-name": "",
-				"modul-id": ""
 			}
 		]
 	},

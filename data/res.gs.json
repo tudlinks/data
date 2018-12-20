@@ -27,6 +27,12 @@
 				"modul-id": "RES-G06"
 			},
 			{
+				"name": "Werkstoffe",
+				"url": "https://tu-dresden.de/ing/maschinenwesen/ifww/wd/studium/lehrveranstaltungen/werkstoffe-et-mt-res",
+				"modul-name": "Werkstoffe und Technische Mechanik",
+				"modul-id": "RES-G14"
+			},
+			{
 				"name": "Einführungsprojekt Regenerative Energiesysteme",
 				"url": "",
 				"modul-name": "Einführungsprojekt Regenerative Energiesysteme",
@@ -66,12 +72,6 @@
 				"url": "https://tu-dresden.de/ing/elektrotechnik/iee/ge/studium/lehrveranstaltungen/et2",
 				"modul-name": "Elektrische und magnetische Felder",
 				"modul-id": "RES-G07"
-			},
-			{
-				"name": "Werkstoffe",
-				"url": "https://tu-dresden.de/ing/maschinenwesen/ifww/wd/studium/lehrveranstaltungen/werkstoffe-et-mt-res",
-				"modul-name": "Werkstoffe und Technische Mechanik",
-				"modul-id": "RES-G14"
 			},
 			{
 				"name": "Technische Mechanik",

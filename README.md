@@ -6,10 +6,10 @@ Unilinks (Data) ist eine private Linksammlung zu Veranstaltungen von Studiengän
 
 ## Verfügbare Studiengänge
 
-* Elektrotechnik              (in Arbeit)
+* Elektrotechnik              (unvollständig)
 * Informationssystemtechnik
-* Mechatronik                 (in Arbeit)
-* Regenarative Energiesysteme (in Arbeit)
+* Mechatronik                 (unvollständig)
+* Regenarative Energiesysteme (unvollständig)
 
 ## Beitragen
 

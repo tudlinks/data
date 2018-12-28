@@ -1,6 +1,6 @@
 # Unilinks (Data)
 
-**Unilinks (Data)** ist eine private Sammlungen von Links zu Veranstaltungen von Studiengängen der [Fakultät Elektrotechnik und Informationstechnik](https://tu-dresden.de/ing/elektrotechnik) der [TU Dresden](https://tu-dresden.de/), deren Ziel es ist, einen zusammenfassenden Überblick für Ressourcen einzelner Diplomstudiengänge zu geben. Dieses Repository dient zur offenen Verwaltung dieser Links.
+**Unilinks (Data)** ist eine private Sammlungen von Links zu Veranstaltungen von Studiengängen der [Fakultät Elektrotechnik und Informationstechnik](https://tu-dresden.de/ing/elektrotechnik) der [TU Dresden](https://tu-dresden.de/), deren Ziel es ist, einen zusammenfassenden Überblick für Ressourcen einzelner Diplomstudiengänge zu geben. Dieses Repository dient zur offenen Verwaltung dieser Links und ist ein Projekt von Studenten für Studenten.
 
 ## Verfügbare Studiengänge
 

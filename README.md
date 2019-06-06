@@ -11,4 +11,4 @@
 
 ## Mitarbeit
 
-Vorschläge zu weiteren Links oder zu Aktualisierungen können als **Pull request**, als **Issue** oder per **E-Mail** an unilinks.dresden@gmail.com eingereicht werden. 
+Vorschläge zu weiteren Links oder zu Aktualisierungen können als **Pull request** oder **Issue** eingereicht werden.

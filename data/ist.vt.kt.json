@@ -1,0 +1,25 @@
+[
+	{
+		"title": "Vertiefung (Kommunikationstechnik)",
+		"entries": [
+			{
+				"name": "Signalanalyse",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ias/juniorprofessur-fuer-kognitive-systeme/studium/lehrveranstaltungen/signalanalyse",
+				"modul-name": "Angewandte Intelligente Signalverarbeitung",
+				"modul-id": "ET-12 09 13"
+			},
+			{
+				"name": "Mustererkennung",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ias/juniorprofessur-fuer-kognitive-systeme/studium/lehrveranstaltungen/Mustererkennung",
+				"modul-name": "Angewandte Intelligente Signalverarbeitung",
+				"modul-id": "ET-12 09 13"
+			},
+			{
+				"name": "Praktikum Angewandte Intelligente Signalverarbeitung ",
+				"url": "https://tu-dresden.de/ing/elektrotechnik/ias/juniorprofessur-fuer-kognitive-systeme/studium/lehrveranstaltungen/praktikum-angewandte-intelligente-signalverarbeitung",
+				"modul-name": "Angewandte Intelligente Signalverarbeitung",
+				"modul-id": "ET-12 09 13"
+			}
+		]
+	}
+]

@@ -22,13 +22,13 @@
 			},
 			{
 				"name": "Algorithmen und Datenstrukturen",
-				"url": "https://www.orchid.inf.tu-dresden.de/teaching/2018ws/aud/",
+				"url": "https://www.orchid.inf.tu-dresden.de/teaching/2019ws/aud/",
 				"modul-name": "Algorithmen und Datenstrukturen",
 				"modul-id": "INF-D-210"
 			},
 			{
 				"name": "Einführungspraktikum",
-				"url": "https://tu-dresden.de/ing/informatik/sya/se/studium/labs-seminars/einfuehrungspraktikum_roboter_lab?set_language=de",
+				"url": "https://tu-dresden.de/ing/informatik/sya/se/studium/labs-seminars/robolab_inf",
 				"modul-name": "Einführungspraktikum RoboLab",
 				"modul-id": "INF-B-230"
 			}
@@ -57,7 +57,7 @@
 			},
 			{
 				"name": "Programmierung",
-				"url": "https://www.orchid.inf.tu-dresden.de/teaching/2018ss/prog/",
+				"url": "https://www.orchid.inf.tu-dresden.de/teaching/2020ss/prog/",
 				"modul-name": "Programmierung",
 				"modul-id": "INF-B-240"
 			},
@@ -68,10 +68,10 @@
 				"modul-id": "ET-01 04 05"
 			},
 			{
-				"name": "Inloop",
+				"name": "INLOOP (nur im Uninetz / über VPN erreichbar)",
 				"url": "https://inloop.inf.tu-dresden.de/",
-				"modul-name": "",
-				"modul-id": ""
+				"modul-name": "Softwaretechnologie",
+				"modul-id": "INF-B-310"
 			}
 		]
 	},

@@ -4,23 +4,23 @@
 		"entries": [
 			{
 				"name": "Studierenden-Portal (Selma)",
-				"url": "https://portal.slm.tu-dresden.de/"
+				"url": "https://selma.tu-dresden.de/"
 			},
 			{
-				"name": "Stundenpläne",
+				"name": "Stundenpläne (Fakultät EuI)",
 				"url": "http://www.et.tu-dresden.de/stundenplan/stundenplan_auswahl.php"
 			},
 			{
-				"name": "Studiendokumente",
+				"name": "Studiendokumente und Ordnungen (Fakultät EuI)",
 				"url": "https://tu-dresden.de/ing/elektrotechnik/studium/studieren-an-der-fakultaet/pruefungen/studiendokumente-und-ordnungen"
 			},
 			{
-				"name": "Hisqis",
+				"name": "HISQIS",
 				"url": "https://qis.dez.tu-dresden.de/"
 			},
 			{
 				"name": "Prüfungsamt",
-				"url": "http://www.et.tu-dresden.de/etit/index.php?id=pruefungsamt"
+				"url": "https://tu-dresden.de/ing/elektrotechnik/studium/studieren-an-der-fakultaet/beratung-und-service/Pruefungsamt"
 			},
 			{
 				"name": "Campus Navigator",
@@ -31,36 +31,36 @@
 				"url": "https://bildungsportal.sachsen.de/opal/dmz/"
 			},
 			{
-				"name": "MSX (Outlook Web)",
+				"name": "MSX (Outlook Web App)",
 				"url": "https://msx.tu-dresden.de/"
 			},
 			{
-				"name": "Mensa",
-				"url": "http://www.studentenwerk-dresden.de/mensen/speiseplan/"
+				"name": "Mensa Speiseplan",
+				"url": "https://www.studentenwerk-dresden.de/mensen/speiseplan/"
 			},
 			{
 				"name": "SLUB",
-				"url": "http://www.slub-dresden.de/startseite/"
+				"url": "https://www.slub-dresden.de/startseite/"
 			},
 			{
 				"name": "netAction",
-				"url": "http://et.netaction.de/forum/index.php"
+				"url": "https://et.netaction.de/forum/index.php"
 			},
 			{
-				"name": "Zugangssystem Doorlock (VPN)",
+				"name": "Zugangssystem Doorlock (nur im Uninetz / über VPN erreichbar)",
 				"url": "https://etdlxj.et.tu-dresden.de:8445/doorlock/main.php"
 			},
 			{
-				"name": "Fachschaftsrat",
+				"name": "Fachschaftsrat ET",
 				"url": "https://www.fsret.de/"
 			},
 			{
 				"name": "AGDSN",
-				"url": "https://www.wh2.tu-dresden.de/"
+				"url": "https://agdsn.de/"
 			},
 			{
-				"name": "Universitätssport",
-				"url": "https://tu-dresden.de/usz"
+				"name": "USZ - Sportangebote",
+				"url": "https://www.usz.tu-dresden.de/sportarten/aktueller_zeitraum/index.html"
 			}
 		]
 	}
